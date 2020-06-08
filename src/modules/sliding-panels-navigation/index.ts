@@ -16,7 +16,7 @@ export default class MmSlidingPanelsNavigation {
     node: HTMLElement;
 
     /** The title for the menu. */
-    title: string;
+    title: HTMLElement;
 
     /** Whether or not to use sliding submenus. */
     slidingSubmenus: boolean;
